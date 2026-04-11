@@ -2,6 +2,9 @@
 
 FastAPI backend with async background task processing and JWT authentication.
 
+**Live URL:** https://task-automation-api-i90w.onrender.com
+**Docs:** https://task-automation-api-i90w.onrender.com/docs
+
 ## Project Structure
 
 ```
